@@ -1,0 +1,8 @@
+#! 0-apigolang-namespace.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: apigolang
+    labels:
+        com.docker.compose.project: apigolang
